@@ -62,7 +62,6 @@ sections:
       arrow: true
 seo:
   title: Bud Trackers
-  description: The preview of the Planty theme
   extra:
     - name: 'og:type'
       value: website
